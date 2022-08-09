@@ -1,2 +1,0 @@
-# probable-potato
-C++
